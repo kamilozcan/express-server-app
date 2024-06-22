@@ -1,0 +1,5 @@
+20240622	07:00:40	fc5bb932-38e4-414d-9fad-e991fe4bfeb0	Error: ENOENT: no such file or directory, open 'C:\Users\KAMIL\Node.js Tut\nodejs_web_server\views\300.html'
+20240622	07:00:42	51319828-20ff-4d5b-a876-d1513ab776fc	Error: ENOENT: no such file or directory, open 'C:\Users\KAMIL\Node.js Tut\nodejs_web_server\views\300.html'
+20240622	07:00:50	0f8d37ea-bde4-4475-bebb-eefd8a8f6230	Error: ENOENT: no such file or directory, open 'C:\Users\KAMIL\Node.js Tut\nodejs_web_server\views\200.html'
+20240622	07:00:54	e5eaf905-ab14-4c85-9568-c68acb48680e	Error: ENOENT: no such file or directory, open 'C:\Users\KAMIL\Node.js Tut\nodejs_web_server\views\200.html'
+20240622	07:10:18	fba3366e-18ab-46ff-a8e4-b55ae2db24e8	TypeError: fsPromises.readFil is not a function
