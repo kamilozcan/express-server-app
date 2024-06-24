@@ -1,6 +1,11 @@
-20240622	07:13:20	f7dd0367-036d-4b22-a81e-ae5d6876161f	/new-page.html	GET
-20240622	07:13:20	4fc49259-31b5-41a0-bb43-d57437b6c443	/css/style.css	GET
-20240622	07:13:20	f4074219-d2a7-43bc-9ad4-5c96364f968f	/img/img1.jpg	GET
-20240622	07:16:01	9a6e7405-d81c-4921-b1de-ba706c705b38	/new-page.html	GET
-20240622	07:16:01	e057beaa-8219-40f9-80bc-698068e4d0c3	/css/style.css	GET
-20240622	07:16:01	a85cff2d-22e7-4f59-92c4-950b443564bc	/img/img1.jpg	GET
+20240624	19:37:53	2ce4a5d3-b613-47a5-bb00-84440768673b	GET	undefined	/
+20240624	19:38:26	15a4a7de-0d00-4bdb-8326-9abeddc8e339	GET	undefined	/
+20240624	19:39:58	f216adec-ff03-4bb0-a11c-72d7fea33f85	GET	undefined	/
+20240624	19:41:50	e50a4d3a-860f-41fa-a6d2-b65f263ddcef	GET	undefined	/
+20240624	19:41:50	947f6592-c7e1-46f2-903a-beab3af51c59	GET	undefined	/css/style.css
+20240624	19:49:30	a2e30ed3-0278-4f88-9700-cbd276688015	GET	undefined	/
+20240624	19:49:30	a4dac208-91f8-4ee9-b9e2-3de3f4ff950e	GET	undefined	/css/style.css
+20240624	19:51:44	59d8397e-b0d0-41e2-ac32-962478d7c341	GET	undefined	/kamil
+20240624	19:51:44	b35be9fb-cad3-42e9-93b6-fb2767a65f3c	GET	undefined	/css/style.css
+20240624	19:55:17	96262f5a-f3e0-4e39-899b-d210d330523a	GET	undefined	/kamil
+20240624	19:55:17	471d1f06-9d50-44b6-8679-6ea27ad1c196	GET	undefined	/css/style.css
